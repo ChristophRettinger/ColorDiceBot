@@ -1,0 +1,32 @@
+{
+  "name": "ColorDiceBot",
+  "version": "1.0.0",
+  "description": "A telegram bot, rolling colorful dice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristophRettinger/ColorDiceBot"
+  },
+  "keywords": [
+    "nodejs",
+    "telegram",
+    "dice",
+    "roll",
+    "rollplaying",
+    "rpg",
+    "bot"
+  ],
+  "author": "Christoph Rettinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristophRettinger/ColorDiceBot/issues"
+  },
+  "homepage": "https://github.com/ChristophRettinger/ColorDiceBot",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-telegram-bot-api": "^0.23.3"
+  }
+}
